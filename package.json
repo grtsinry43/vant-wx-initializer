@@ -1,0 +1,20 @@
+{
+  "name": "vant-wx-initializer",
+  "version": "1.0.0",
+  "author": "grtsinry43",
+  "description": "快速初始化vant组件库项目 / Quickly initialize vant component library project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "cli-progress": "^3.12.0",
+    "fs-extra": "^11.2.0",
+    "gradient-string": "^3.0.0",
+    "inquirer": "^12.0.0",
+    "ora": "^8.1.0",
+    "simple-git": "^3.27.0"
+  }
+}
