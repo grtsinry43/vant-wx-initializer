@@ -2,13 +2,26 @@
   "name": "vant-wx-initializer",
   "version": "1.0.0",
   "author": "grtsinry43",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grtsinry43/vant-wx-initializer.git"
+  },
+  "keywords": [
+    "vant",
+    "vant-wx-initializer",
+    "vant-cli",
+    "vant-wx-template"
+  ],
   "description": "快速初始化vant组件库项目 / Quickly initialize vant component library project",
   "main": "index.js",
   "type": "module",
+  "bin": {
+    "vant-wx-initializer": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "private": true,
   "dependencies": {
     "cli-progress": "^3.12.0",
     "fs-extra": "^11.2.0",
