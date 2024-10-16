@@ -1,6 +1,10 @@
 # vant-wx-initializer
 
 ```shell
+npx vant-wx-cli
+```
+
+```shell
 Vant - Wx - Initializer 😘
 ✔ 请输入项目名称: demo-project
 ✔ 是否是微信网页项目? yes
